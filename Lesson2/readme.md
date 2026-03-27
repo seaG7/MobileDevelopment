@@ -144,8 +144,7 @@ public class MainActivity extends AppCompatActivity {
 
 **Демонстрация работы (LogCat):**
 
-> 
->  ![](/api/attachments.redirect?id=97b4909e-1737-4312-9299-d8244d6f45f6 "aspect=1")
+> <img width="889" height="76" alt="image" src="https://github.com/user-attachments/assets/1a5fd075-2468-4a50-beda-0406c5f42e3c" />
 
 ### 3.2. Явные намерения и передача данных (модуль `MultiActivity`)
 
@@ -340,19 +339,11 @@ public class SecondActivity extends AppCompatActivity {
 
 **Демонстрация работы:**
 
-> 
->  ![](/api/attachments.redirect?id=8dcdb5ff-1c9b-4738-8335-3a237e01bb2b "aspect=0.5089799272965867")
->
->  ![](/api/attachments.redirect?id=95ebbdc3-3ed7-4102-a745-276759674b74 "aspect=0.9970059751664426")
->
-> 
->  ![](/api/attachments.redirect?id=696fc721-c7d6-4182-8d1a-b18d773f18df "aspect=1")
->
-> 
->  ![](/api/attachments.redirect?id=a8d80419-427e-46a3-8b80-28c7b3637085 "aspect=1")
->
-> 
->  ![](/api/attachments.redirect?id=c7e321d6-5eef-4405-b14a-3c5a1e4cd3a6 "aspect=1")
+> <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/0628da7e-7ec8-44c2-9cfa-8882b3735830" />
+>  <img width="649" height="140" alt="image" src="https://github.com/user-attachments/assets/29b9f193-e525-4f04-856e-7048ab02729f" />
+>  <img width="889" height="70" alt="image" src="https://github.com/user-attachments/assets/951f8345-5685-4caa-a19b-5946a56d2da1" />
+>  <img width="891" height="89" alt="image" src="https://github.com/user-attachments/assets/eeea26ce-82fb-48dc-839d-02692ba4da37" />
+>  <img width="982" height="44" alt="image" src="https://github.com/user-attachments/assets/9eb3b820-576d-4fbf-997e-b2eeb88eb898" />
 
 ### 3.3. Неявные намерения (модуль `IntentFilter`)
 
@@ -406,10 +397,8 @@ public class MainActivity extends AppCompatActivity {
 
 **Демонстрация работы:**
 
-> 
->  ![](/api/attachments.redirect?id=41cf16bd-5fbf-43eb-81bf-c6b10b440c19 "aspect=0.4461054057918779")
->
->  ![](/api/attachments.redirect?id=bc7a7d05-17a2-4d4a-8210-c30ab4616b22 "aspect=0.4431113809583202")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2c586843-a2af-4a9d-b16d-d5b5f5c4ac9d" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/180bfa00-50da-4ec0-bd2e-e63427b78c35" />
 
 ### 3.4. Всплывающие уведомления (модуль `ToastApp`)
 
@@ -458,8 +447,7 @@ public class MainActivity extends AppCompatActivity {
 
 **Демонстрация работы:**
 
-> 
->  ![](/api/attachments.redirect?id=ec49fe99-d316-45b8-9ee3-55eb7f9f4d6f "aspect=0.4550874802925496")
+> <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3995d2ff-651e-402e-8782-1c5e6cc058f3" />
 
 ### 3.5. Системные уведомления (модуль `NotificationApp`)
 
@@ -544,7 +532,7 @@ public class MainActivity extends AppCompatActivity {
 **Демонстрация работы:**
 
 > 
->  ![](/api/attachments.redirect?id=82f704f6-6312-4e1f-aea9-885831de814d "aspect=0.4011950332885166")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/94ba5c47-82f8-49ab-8052-55224c27c46e" />
 
 ### 3.6. Диалоговые окна и фрагменты (модуль `Dialog`)
 
@@ -728,15 +716,15 @@ public class MainActivity extends AppCompatActivity {
 **Демонстрация работы:**
 
 > 
->  ![](/api/attachments.redirect?id=1aae7931-faa4-4986-ab48-c1ddece11dc8 "aspect=0.36526673528582765")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2d722d8c-ff09-4b46-b751-adca6d591836" />
 >
->  ![](/api/attachments.redirect?id=383c20d6-16c7-43e7-95f5-b535ba404257 "aspect=0.3712547849529424")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/849ef3c2-551c-4769-9414-1a3a7c3105bb" />
 >
->  ![](/api/attachments.redirect?id=9383657e-c473-492f-a0ca-d9aff82a28bd "aspect=0.3772428346200566")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e24fba17-6c63-485b-9478-0f6314b69a4b" />
 >
->  ![](/api/attachments.redirect?id=8c6f925c-3c93-4f8e-80e6-4fe37e9eb8d5 "aspect=0.3712547849529422")
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d06e8e1a-69a3-44c4-a406-46d748a143fa" />
 >
->  ![](/api/attachments.redirect?id=7fdf3fdb-49ae-459d-b5ff-cfa4d772d987 "aspect=0.3742488097865")
+>  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/93949c1d-1d93-4872-bae0-0fcc4e52ac01" />
 
 ---
 
