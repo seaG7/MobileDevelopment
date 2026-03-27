@@ -397,8 +397,8 @@ public class MainActivity extends AppCompatActivity {
 
 **Демонстрация работы:**
 
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2c586843-a2af-4a9d-b16d-d5b5f5c4ac9d" />
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/180bfa00-50da-4ec0-bd2e-e63427b78c35" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ef3dd1c7-26c7-4457-b3fe-8205c904704e" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/85ebcb72-7b66-4536-8c3a-b2632534aa6d" />
 
 ### 3.4. Всплывающие уведомления (модуль `ToastApp`)
 
@@ -447,7 +447,7 @@ public class MainActivity extends AppCompatActivity {
 
 **Демонстрация работы:**
 
-> <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3995d2ff-651e-402e-8782-1c5e6cc058f3" />
+> <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/75268d76-13e0-448b-bfcb-922eb57558d2" />
 
 ### 3.5. Системные уведомления (модуль `NotificationApp`)
 
@@ -532,7 +532,7 @@ public class MainActivity extends AppCompatActivity {
 **Демонстрация работы:**
 
 > 
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/94ba5c47-82f8-49ab-8052-55224c27c46e" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd62f51a-3e4e-4d89-a595-7438712b09ff" />
 
 ### 3.6. Диалоговые окна и фрагменты (модуль `Dialog`)
 
@@ -716,14 +716,14 @@ public class MainActivity extends AppCompatActivity {
 **Демонстрация работы:**
 
 > 
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2d722d8c-ff09-4b46-b751-adca6d591836" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/990d6f4a-074f-44f5-a16f-8db79dd7120a" />
 >
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/849ef3c2-551c-4769-9414-1a3a7c3105bb" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8b0b700e-cdb5-4a39-8b15-f02c1fcaab08" />
 >
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e24fba17-6c63-485b-9478-0f6314b69a4b" />
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a397ecac-41d2-479a-b0b2-755e7371d4f0" />
 >
->  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d06e8e1a-69a3-44c4-a406-46d748a143fa" />
->
+>  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1dd26f91-eed6-4215-a2b3-e806775568e5" />
+> 
 >  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/93949c1d-1d93-4872-bae0-0fcc4e52ac01" />
 
 ---
