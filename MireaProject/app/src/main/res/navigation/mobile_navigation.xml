@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_data">
+
+    <fragment
+        android:id="@+id/nav_data"
+        android:name="ru.mirea.danilov.mireaproject.DataFragment"
+        android:label="Отрасль"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
+        android:id="@+id/nav_webview"
+        android:name="ru.mirea.danilov.mireaproject.WebViewFragment"
+        android:label="Браузер"
+        tools:layout="@layout/fragment_web_view" />
+</navigation>
