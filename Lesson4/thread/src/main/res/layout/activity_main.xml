@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView android:id="@+id/textViewInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Инфо о потоке" />
+
+    <EditText android:id="@+id/editTotalPairs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Общее количество пар"
+        android:inputType="number" />
+
+    <EditText android:id="@+id/editTotalDays"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Количество учебных дней"
+        android:inputType="number" />
+
+    <Button android:id="@+id/buttonCalculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Посчитать среднее в фоне" />
+
+    <TextView android:id="@+id/textViewResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="Результат появится здесь" />
+</LinearLayout>

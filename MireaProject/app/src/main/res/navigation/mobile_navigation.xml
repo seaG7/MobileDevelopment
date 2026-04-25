@@ -16,4 +16,9 @@
         android:name="ru.mirea.danilov.mireaproject.WebViewFragment"
         android:label="Браузер"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/nav_worker"
+        android:name="ru.mirea.danilov.mireaproject.WorkerFragment"
+        android:label="Фоновая задача"
+        tools:layout="@layout/fragment_worker" />
 </navigation>

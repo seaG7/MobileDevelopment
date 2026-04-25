@@ -9,7 +9,6 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 import com.google.android.material.navigation.NavigationView;
 
-import ru.mirea.danilov.mireaproject.R;
 import ru.mirea.danilov.mireaproject.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
@@ -44,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onSupportNavigateUp() {
-        // ПРАВИЛЬНЫЙ ПОИСК КОНТРОЛЛЕРА ЗДЕСЬ ТАКЖЕ ИЗМЕНЕН
         NavHostFragment navHostFragment = (NavHostFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.nav_host_fragment_content_main);
         NavController navController = navHostFragment.getNavController();

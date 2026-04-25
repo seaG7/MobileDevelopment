@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <EditText android:id="@+id/editTextMirea" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Ваша работа"/>
+    <EditText android:id="@+id/editAge" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Ваш возраст" android:inputType="number"/>
+    <Button android:id="@+id/buttonMirea" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Отправить в Looper"/>
+</LinearLayout>
