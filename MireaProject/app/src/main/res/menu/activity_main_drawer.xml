@@ -10,6 +10,14 @@
             android:title="Отрасль" />
 
         <item
+            android:id="@+id/nav_profile"
+            android:title="Профиль" />
+
+        <item
+            android:id="@+id/nav_file_work"
+            android:title="Работа с файлами" />
+
+        <item
             android:id="@+id/nav_webview"
             android:title="Браузер" />
 

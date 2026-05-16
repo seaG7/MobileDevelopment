@@ -12,6 +12,18 @@
         tools:layout="@layout/fragment_data" />
 
     <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.danilov.mireaproject.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_file_work"
+        android:name="ru.mirea.danilov.mireaproject.FileWorkFragment"
+        android:label="Работа с файлами"
+        tools:layout="@layout/fragment_file_work" />
+
+    <fragment
         android:id="@+id/nav_webview"
         android:name="ru.mirea.danilov.mireaproject.WebViewFragment"
         android:label="Браузер"

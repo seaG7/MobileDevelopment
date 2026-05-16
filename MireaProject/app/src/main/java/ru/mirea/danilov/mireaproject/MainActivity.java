@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_data,
+                R.id.nav_profile,
                 R.id.nav_webview,
                 R.id.nav_worker,
                 R.id.nav_hardware,
